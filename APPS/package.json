@@ -1,0 +1,28 @@
+{
+  "name": "apsport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry point: (index.js) main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgealv1423/APSPORT.git"
+  },
+  "keywords": [
+    "keywords:",
+    "nodejs",
+    "npm",
+    "demo"
+  ],
+  "author": "Jorge Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgealv1423/APSPORT/issues"
+  },
+  "homepage": "https://github.com/jorgealv1423/APSPORT#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
